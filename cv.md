@@ -1,7 +1,5 @@
 # Oleg Mazuriak
-====
 ## Contacts
-====
 * **Location**: Galați, Romania
 * **Phone**: +380955333555
 * **Email**: omegapro02aj@gmail.com
