@@ -154,74 +154,74 @@ transform: scale(1.1);
 .project-image-pet:hover{
 transform: scale(1.1);
 }
-.text1{
+.whome{
 color: #f6b0b0;
 font-size: 18px;
 text-align: center;
 }
-.text2{
+.howucan{
 font-size: 22px;
 color: white;
 text-align: center;
 }
-.text3{
+.whatican{
 font-size: 22px;
 color: white;
 text-align: center;
 }
-.text4{
+.speakhow{
 font-size: 22px;
 color: white;
 text-align: center;
 }
-.text5{
+.opit{
 font-size: 24px;
 padding: 10px;
 font-family: Helvetica, Arial, sans-serif;
 }
-.text6{
+.education{
 text-align: center;
 margin-right: 200px;
 font-size: 24px;
 }
-.text7{
+.educationopit{
 font-size: 24px;
 padding: 10px;
 font-family: Helvetica, Arial, sans-serif;
 }
-.text8{
+.courses{
 text-align: center;
 margin-right: 200px;
 font-size: 24px;
 }
-.text9{
+.howitwas{
 font-size: 24px;
 padding: 10px;
 font-family: Helvetica, Arial, sans-serif;
 }
-.text0{
+.codes{
 text-align: center;
 margin-right: 200px;
 font-size: 24px;
 margin-top: 120px;
 }
-.text11{
+.examples{
 font-size: 24px;
 padding: 10px;
 font-family: Helvetica, Arial, sans-serif;
 }
-.text12{
+.projectsever{
 text-align: center;
 margin-right: 200px;
 font-size: 24px;
 margin-top: 50px;
 }
-.text13{
+.lastproject{
 font-size: 24px;
 padding: 10px;
 font-family: Helvetica, Arial, sans-serif;
 }
-.text14{
+.aboutme{
 text-align: center;
 margin-right: 200px;
 }
@@ -237,7 +237,7 @@ width: 50px;
 height: 50px;
 margin-left: 60px;
 }
-.text15{
+.wascreated{
 font-weight: 700;
 }
 .ashka2{
@@ -248,7 +248,7 @@ width: 70px;
 height: 70px;
 margin-right: 60px;
 }
-.text16{
+.namemain-text{
 color: #f6b0b0;
 text-align: center;
 }
