@@ -1,0 +1,254 @@
+body{
+margin: 0;
+padding: 0;
+}
+.container{
+width: 1200px;
+margin: 0 auto;
+}
+.two-columns{
+display: flex;
+}
+.boloto-side{
+background-color: black;
+height: 2000px;
+width: 400px;
+}
+.white-side{
+background-color: rgb(189 185 185);
+width: 800px;
+height: 2000px;
+box-shadow: 15px 10px 20px rgba(69, 65, 65, 0.23);
+position: relative;
+}
+.goty{
+border-radius: 50%;
+width: 200px;
+height: 200px;
+margin-top: 35px;
+margin-left: 100px;
+}
+.block{
+width: 250px;
+height: 30px;
+background-color: rgb(238, 177, 140);
+border-radius: 25px;
+margin-left: 75px;
+}
+.contact-img {
+width: 35px;
+height: 35px;
+margin-top: 8px;
+
+}
+.seti-text{
+padding-bottom: 15px;
+margin-left: 15px;
+color: #f6b0b0;
+font-size: 18px;
+}
+li {
+display: flex;
+}
+.fpspis{
+list-style: none;
+margin-top: 50px;
+}
+.skilli{
+width: 250px;
+height: 30px;
+background-color: rgb(238, 177, 140);
+border-radius: 25px;
+margin-left: 75px;
+}
+.skill-list{
+color: #f6b0b0;
+margin-top: 10px;
+font-size: 16px;
+font-weight: 700;
+}
+.list-main{
+list-style-type: disc;
+margin-top: 60px;
+}
+.languages{
+width: 250px;
+height: 30px;
+background-color: rgb(238, 177, 140);
+border-radius: 25px;
+margin-left: 75px;
+margin-top: 50px;
+}
+.yazik{
+margin-top: 50px;
+}
+.sub-text{
+color: #f6b0b0;
+font-size: 14px;
+padding: 5px;
+font-weight: 300;
+
+}
+.exp{
+width: 40px;
+height: 40px;
+}
+.skill-img{
+margin-top: 10px;
+margin-left: 10px;
+}
+footer{
+width: 1200px;
+background-color: rgb(238, 177, 140);
+height: 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.sub-line{
+width: 600px;
+height: 2px;
+background-color: black;
+margin-left: 100px;
+}
+.sub-line2{
+width: 600px;
+height: 2px;
+background-color: black;
+margin-left: 105px;
+}
+.container-text{
+width: 600px;
+height: 150px;
+margin-left: 120px;
+}
+pre{
+background-color: white;
+margin-left: 80px;
+height: auto;
+width: 500px;
+margin-bottom: 30px;
+}
+.project-img_inner{
+display: flex;
+}
+.project-image{
+width: 300px;
+height: 300px;
+transition: transform 0.8s ease;
+position: absolute;
+bottom: 50px;
+right: 450px;
+}
+.project-image-pet{
+width: 300px;
+height: 300px;
+transition: transform 0.8s ease;
+position: absolute;
+bottom: 50px;
+right: 70px;
+}
+.project-image:hover{
+transform: scale(1.1);
+}
+.project-image-pet:hover{
+transform: scale(1.1);
+}
+.whome{
+color: #f6b0b0;
+font-size: 18px;
+text-align: center;
+}
+.howucan{
+font-size: 22px;
+color: white;
+text-align: center;
+}
+.whatican{
+font-size: 22px;
+color: white;
+text-align: center;
+}
+.speakhow{
+font-size: 22px;
+color: white;
+text-align: center;
+}
+.opit{
+font-size: 24px;
+padding: 10px;
+font-family: Helvetica, Arial, sans-serif;
+}
+.education{
+text-align: center;
+margin-right: 200px;
+font-size: 24px;
+}
+.educationopit{
+font-size: 24px;
+padding: 10px;
+font-family: Helvetica, Arial, sans-serif;
+}
+.courses{
+text-align: center;
+margin-right: 200px;
+font-size: 24px;
+}
+.howitwas{
+font-size: 24px;
+padding: 10px;
+font-family: Helvetica, Arial, sans-serif;
+}
+.codes{
+text-align: center;
+margin-right: 200px;
+font-size: 24px;
+margin-top: 120px;
+}
+.examples{
+font-size: 24px;
+padding: 10px;
+font-family: Helvetica, Arial, sans-serif;
+}
+.projectsever{
+text-align: center;
+margin-right: 200px;
+font-size: 24px;
+margin-top: 50px;
+}
+.lastproject{
+font-size: 24px;
+padding: 10px;
+font-family: Helvetica, Arial, sans-serif;
+}
+.aboutme{
+text-align: center;
+margin-right: 200px;
+}
+.ashka{
+text-decoration: none;
+color: black;
+}
+.flexer{
+display: flex;
+}
+.kartinka{
+width: 50px;
+height: 50px;
+margin-left: 60px;
+}
+.wascreated{
+font-weight: 700;
+}
+.ashka2{
+text-decoration: none;
+}
+.kartinka2{
+width: 70px;
+height: 70px;
+margin-right: 60px;
+}
+.namemain-text{
+color: #f6b0b0;
+text-align: center;
+}
